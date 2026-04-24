@@ -1,0 +1,47 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+# Environment files
+.env
+.env.*
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+# Python tooling caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+# Project-generated data and models
+MP_Data/
+dataset.npz
+model.joblib
+model.pkl
+model.sav
+model.json
+SignLanguageDetection/artifacts/
+hand_landmarker.task
+# Temporary exports and logs
+*.log
+*.tmp
+*.temp
+# Jupyter
+.ipynb_checkpoints/
+# Keep report DOCX files tracked unless you decide otherwise
