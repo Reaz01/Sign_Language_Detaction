@@ -1,5 +1,4 @@
-# Sign_Language_Detaction
-Real-Time English Alphabet Recognition Using MediaPipe and scikit-learn
+
 # Sign Language Detection (A–Z)
 
 Real-time hand sign recognition for all 26 English alphabet letters using MediaPipe + LSTM.
