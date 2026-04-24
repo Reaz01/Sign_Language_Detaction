@@ -45,3 +45,12 @@ hand_landmarker.task
 # Jupyter
 .ipynb_checkpoints/
 # Keep report DOCX files tracked unless you decide otherwise
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Image/
+dataset.npz
+model.joblib
+MP_Data/
